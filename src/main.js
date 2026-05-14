@@ -1,2 +1,2 @@
-import './src/components/banner-ucr.js';
-import './src/components/panel-ucr.js';
+import './components/banner-ucr.js';
+import './components/panel-ucr.js';
